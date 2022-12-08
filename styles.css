@@ -4,9 +4,9 @@
 }
 
 :root {
-  --hue-neutral: 200;
+  --hue-neutral: 248;
   --hue-wrong: 0;
-  --hue-correct: 145;
+  --hue-correct: 147;
 }
 
 body {
