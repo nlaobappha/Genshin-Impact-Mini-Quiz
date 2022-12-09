@@ -1,17 +1,4 @@
 {
-  "name": "mypkg",
-  "version": "1.0.0",
-  "dependencies": {
-    "postinstall": "*"
-  },
-  "scripts": {
-    "postinstall": "postinstall",
-    "prepare": "postinstall"
-  },
-  "prepare": {
-    "<modulename>/path": "browserify lib/"
-  },
-  "postinstall": {
-    "<othermodule>/file": "link lib/"
-  }
+  "name" : "genshin-impact-mini-quiz",
+  "version" : "0.0.0",
 }
