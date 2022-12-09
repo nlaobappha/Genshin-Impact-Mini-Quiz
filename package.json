@@ -1,0 +1,17 @@
+{
+  "name": "genshin-impact-mini-quiz",
+  "version": "1.0.0",
+  "description": "Mini Quiz Application Final Project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlaobappha/Genshin-Impact-Mini-Quiz"
+  },
+  "author": "Nathanon Laobappha",
+  "engines": {
+    "node": "6.x"
+  }
+}
