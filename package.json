@@ -1,9 +1,5 @@
 {
   "name" : "genshin-impact-mini-quiz",
-  "version" : "0.0.0",
-}
-{
-  "name" : "genshin-impact-mini-quiz",
   "description" : "Mini Quiz Application Final Project.",
   "keywords" : ["genshin", "impact", "quiz"],
   "author" : "Nathanon Laobappha",
